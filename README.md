@@ -18,5 +18,5 @@ I am a seasoned networking professional with a strong foundation in connectivity
 ---
 
 ### 📫 How to Reach Me
-- **LinkedIn:** (https://www.linkedin.com/in/dave-chacon/
+- **LinkedIn:** https://www.linkedin.com/in/dave-chacon/
 - **Current Status:** Open to learning, collaborating, and entry-level cloud opportunities.
