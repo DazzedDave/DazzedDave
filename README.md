@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I’m David 
 
-<!--
-**DazzedDave/DazzedDave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☁️ Aspiring Azure Cloud Engineer | 🌐 Networking Professional
+I am a seasoned networking professional with a strong foundation in connectivity and infrastructure, now transitioning into the world of Cloud Engineering. I’m focusing on mastering **Microsoft Azure**, **Automation**, and **Infrastructure as Code**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I’m Working On
+- **Learning:** Azure Fundamentals (AZ-900) & Administration (AZ-104).
+- **Building:** My first cloud-native networking lab in Azure.
+- **Goal:** To bridge the gap between traditional on-prem networking and modern cloud solutions.
+
+### 🛠️ My Tech Stack (Transitioning)
+- **Networking:** Routing, Switching, Subnetting, Firewalls.
+- **Cloud:** Azure VNets, Blob Storage, Logic Apps.
+- **Tools:** GitHub, Azure Portal.
+
+---
+
+### 📫 How to Reach Me
+- **LinkedIn:** [Insert Your Link Here]
+- **Current Status:** Open to learning, collaborating, and entry-level cloud opportunities.
