@@ -2,7 +2,7 @@
 
 ### 🌐 Senior Network Engineer | ☁️ Cloud Networking | 🔒 Top Secret Cleared
 
-I'm a senior network engineer with 15+ years of hands-on experience designing, 
+I'm a senior network engineer with 10+ years of hands-on experience designing, 
 deploying, and securing enterprise-scale infrastructure for federal defense and 
 intelligence agencies. My background spans routing protocols, secure enclave 
 architecture, software-defined networking, and real-time network monitoring — 
