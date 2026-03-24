@@ -20,10 +20,10 @@ now expanding into cloud networking and automation.
 
 ### 🛠️ Tech Stack
 - **Routing & Switching:** BGP, OSPF, MPLS, EIGRP, VLAN, STP, Software-Defined WAN
-- **Platforms:** Cisco (9K, Catalyst, ISE, CUCM), Juniper, Arista, Palo Alto Firewall
-- **Monitoring:** SolarWinds, Splunk, HPNA, Azure Monitor, Log Analytics, Wireshark
+- **Platforms:** Cisco (9K, Catalyst, ISE, CUCM), Juniper
+- **Monitoring:** SolarWinds, Splunk, HPNA
 - **Security:** Federal Security Standards, Hardware Encryption, VPN, Cross-Domain Solutions
-- **Automation:** Python, PowerShell, Bash
+- **Automation:** Python
 - **Cloud:** Microsoft Azure, Azure Virtual Networks, Azure VPN Gateway
 - **Tools:** Git, GitHub, Jira, ServiceNow, Visio, Packet Tracer
 
@@ -33,7 +33,6 @@ now expanding into cloud networking and automation.
 - 🔧 Python network automation scripts
 - 🗺️ Packet Tracer lab topologies with documentation
 - ☁️ Azure networking lab builds
-- 📋 Study notes for AZ-900 and AZ-700
 
 ---
 
